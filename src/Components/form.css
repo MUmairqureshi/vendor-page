@@ -1,0 +1,28 @@
+.pn {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 20%;
+}
+.pg {
+    padding-top: 0.75rem; 
+  margin: auto;
+  padding-left:35%;
+}
+
+.sl{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 4%;
+}
+
+ 
+@media (min-width: 768px){
+.md\:h-auto {
+    height: -webkit-fill-available;
+}}
+
+
+circle {
+    background-color:brown;
+    color:#05966B;
+}

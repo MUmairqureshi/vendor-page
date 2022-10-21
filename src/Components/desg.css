@@ -1,0 +1,22 @@
+.pn {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 20%;
+}
+.pg {
+  /* padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 40%; */
+}
+
+.sl{
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 4%;
+}
+
+
+@media (min-width: 768px){
+.md\:h-auto {
+  height: -webkit-fill-available;
+}}
